@@ -1,3 +1,4 @@
+//クリックしたら四角を追加する
 import React, { Component } from 'react'
 import './App.css';
 
